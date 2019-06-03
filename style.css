@@ -1,0 +1,16 @@
+.top{
+	height: 50px;
+}
+.main{
+	height: 1000px;
+}
+.block{
+    height: 900px;
+}
+.info{
+	height: 73px;
+}
+.opis {
+	height : 120px;
+	background-color: pink;
+}
